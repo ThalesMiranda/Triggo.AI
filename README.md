@@ -5,7 +5,6 @@ Este projeto faz parte de um estudo de caso proposto pela Triggo e utiliza o dat
 ## 📁 Estrutura
 
 - `TriggoAI_DesafioTécnico.ipynb`: notebook com todo o código de análise, visualizações, modelagem e conclusões.
-- `data/`: contém todos os arquivos CSV utilizados.
 
 ## 🚀 Como executar
 
